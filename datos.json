@@ -1,0 +1,147 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Limon con semilla",
+            "precio": 2500,
+            "descuento": true,
+            "porcentaje_descuento": 0.32,
+            "imagen":  "./img/productos/Limon.jpg"          
+        },
+
+        {
+            "id": 2,
+            "nombre": "Tomate",
+            "precio": 3500,
+            "descuento": true,
+            "porcentaje_descuento": 0.3,
+            "imagen":  "./img/productos/Tomate.jpg"
+        },
+
+        {
+            "id": 3,
+            "nombre": "Aguacate",
+            "precio": 2500,
+            "descuento": true,
+            "porcentaje_descuento": 0.18,
+            "imagen":  "./img/productos/Aguacate.jpg"
+        },
+
+        {
+            "id": 4,
+            "nombre": "Nopal limpio",
+            "precio": 2500,
+            "descuento": true,
+            "porcentaje_descuento": 0.16,
+            "imagen":  "./img/productos/Nopal.jpg"
+        },
+
+        {
+            "id": 5,
+            "nombre": "Tomate verde",
+            "precio": 2500,
+            "descuento": true,
+            "porcentaje_descuento":  0.1,
+            "imagen": "./img/productos/Tomate-verde.jpg"
+        },
+
+        {
+            "id": 6,
+            "nombre": "Coca-Cola sin azúcar 1.5L",
+            "precio": 4000,
+            "descuento": true,
+            "porcentaje_descuento":  0.15,
+            "imagen": "./img/productos/Cocacola-sin-azucar.jpg"
+        },
+
+        {
+            "id": 7,
+            "nombre": "Coca-Cola Original 600ml",
+            "precio": 2400,
+            "descuento": true,
+            "porcentaje_descuento":  0.1,
+            "imagen": "./img/productos/Cocacola.jpg"
+        },
+        
+        {
+            "id": 8,
+            "nombre": "Naranja",
+            "precio": 1500,
+            "descuento": true,
+            "porcentaje_descuento":  0.1,
+            "imagen": "./img/productos/Naranja.jpg"
+        },
+
+        {
+            "id": 9,
+            "nombre": "Jitomate Bola",
+            "precio": 4100,
+            "descuento": true,
+            "porcentaje_descuento":  0.1,
+            "imagen": "./img/productos/Jitomate-Bola.jpg"
+        },
+
+        {
+            "id": 10,
+            "nombre": "Manzana Golden",
+            "precio": 7900,
+            "descuento": true,
+            "porcentaje_descuento":  0.19,
+            "imagen": "./img/productos/Manzana-Golden.jpg"
+        },
+
+        {
+            "id": 11,
+            "nombre": "Pechuga de Pavo San Rafael 250g",
+            "precio": 11900,
+            "descuento": false,
+            "porcentaje_descuento":  0,
+            "imagen": "./img/productos/Pechuga-de-pavo.jpg"
+        },
+
+        {
+            "id": 12,
+            "nombre": "Pan Bimbo blanco",
+            "precio": 2500,
+            "descuento": false,
+            "porcentaje_descuento":  0,
+            "imagen": "./img/productos/Pan-Bimbo.jpg"
+        },
+
+        {
+            "id": 13,
+            "nombre": "Mayonesa Mc Cormick 468g",
+            "precio": 8000,
+            "descuento": false,
+            "porcentaje_descuento":  0,
+            "imagen": "./img/productos/Mc-Cormick-Mayonesa.jpg"
+        },
+
+        {
+            "id": 14,
+            "nombre": "Paquete x2 Colgate Triple Acción 125ml",
+            "precio": 7900,
+            "descuento": false,
+            "porcentaje_descuento":  0,
+            "imagen": "./img/productos/Colgate.jpg"
+        },
+
+        {
+            "id": 15,
+            "nombre": "Canasta de huevos x18",
+            "precio": 1000,
+            "descuento": false,
+            "porcentaje_descuento":  0,
+            "imagen": "./img/productos/Huevos.jpg"
+        },
+
+        {
+            "id": 16,
+            "nombre": "Fabuloso Multiusos 2L",
+            "precio": 11800,
+            "descuento": false,
+            "porcentaje_descuento":  0,
+            "imagen": "./img/productos/Fabuloso.jpg"
+        }
+    ]
+}

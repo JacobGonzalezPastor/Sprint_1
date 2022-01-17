@@ -1,0 +1,89 @@
+
+.cuerpo{
+    padding: 40px;
+    background: rgb(170, 170, 170);
+}
+.div-img{
+    background-image: url(../img/banner.jpg);
+    background-size: auto;
+    border-radius: 15px;
+    width: 100%;
+    height: 250px;
+    margin-top: 15px;
+    display: flex;
+}
+
+.title{
+    margin-left: 100px;
+    position: static;
+    padding-top: 8%;
+    color: white;
+}
+
+.container-oferts, .container-popular{
+    margin-top: 25px;
+}
+
+.container-oferts, .container-popular{
+    background-color: white;
+    padding: 25px;
+    border-radius: 20px;
+    overflow-x: scroll;
+}
+
+.crds-container, .crd-container{
+    margin-top: 20px;
+    display: inline-flex;
+    justify-content: space-between;
+}
+.total{
+    margin-right: 250px;
+}
+.card{
+    margin-right: 25px;
+}
+
+.buy{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 24px;
+
+position: static;
+width: 77px;
+height: 40px;
+left: 20px;
+top: 20px;
+
+/* Malachite */
+
+background: #0AC763;
+border-radius: 8px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 8px;
+}
+
+#tit{
+    color: #FC462D;
+    font-family: Inter;
+font-style: italic;
+font-weight: 900;
+font-size: 22px;
+line-height: 16px;
+}
+
+.desc{
+    background: #F0E3FE;
+    border-radius: 16px;
+}
+
+.shop{
+    background: #0AC763;
+border-radius: 8px;
+}
